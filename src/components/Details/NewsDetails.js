@@ -46,7 +46,7 @@ class NewsDetails extends Component {
               <a href="/" className="previous round pull-left">
                 &#8249;
               </a>
-              <div class="clearfix"></div>
+              <div className="clearfix"></div>
               <div className="row justify-content-center align-items-center h-100 card-content">
                 <div className="col-md-12">
                   <h4 className="news-title">{NewsLists[currentCard].title}</h4>
