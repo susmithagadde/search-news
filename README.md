@@ -65,4 +65,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+Search: It will search all information coming from the api, on the basis of author name, published date and site name.
+ - Search box with auto completion
+ - Dropdowns filters
+     - filter with Publish date, 
+     - author name, 
+     - and news Site names.
+News lists: Every item will display in Card View with an image, published date, article title, author Name. When user clicks on an item, it will display News article details on another page route.
+-  You have to show list of all news articles in theCard View Form. 
+News details: Full size Image and all other article information.
+- Once you click the individual articles show all the information related article in new route page.
